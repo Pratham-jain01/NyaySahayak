@@ -43,6 +43,7 @@ The system employs a microservices architecture with role-based access control a
 Detailed specifications are available in the repository:
 * **[Requirements Specification](./requirements.md)**: Features MoSCoW prioritization, regional language scope (Hindi, Marathi, Gujarati, etc.), and verified data sources like JUDIS and India Code.
 * **[Design Document](./design.md)**: Deep dive into the API architecture, database schemas, and the full AI/ML pipeline.
+* **[Implementation Roadmap](./tasks.md)**: A step-by-step coding plan and testing strategy.
 
 ---
 
